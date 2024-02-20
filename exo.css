@@ -1,0 +1,61 @@
+.img1{
+    background-color:  #457B9D;
+
+    border-radius: 20px;
+    width: 200px;    
+}
+.dudu{
+    background-color: #EBFEFF;
+    ;
+}
+.bb{
+    background: #EBFEFF;
+
+}
+.thiam{
+    background: #EBFEFF;
+
+}
+.cc{
+    background: #EBFEFF;
+
+}
+.dd{
+    margin-left: 200px;
+}
+.ll{
+    margin-left: 200px;
+}
+h6{
+    color: cornflowerblue;
+}
+.btn-primary{
+    color: rgba(0, 251, 255, 0.886);
+
+}
+.btn-bordered{
+    border:1px solid #080909;
+}
+.astou{
+    margin-left: 30%;
+}
+.diop{
+    margin-left: 30%;
+}
+.papa{
+    margin-left: 30%;
+    
+}
+.asta{
+    margin-left: 30%;
+}
+.pp{
+    margin-left: 20%;
+}
+.navbar{
+    border: #141515;
+    width: 1000;
+    background:  #EBFEFF;
+    ;
+    border-bottom:1px solid #080909;
+}
